@@ -1,8 +1,8 @@
 # JanyHeartView
 流动的桃心💗
 ## 示例效果
-![coderYJ](1.png)<br/>
-![coderYJ](2.png)<br/>
+![JanyGee](1.png)<br/>
+![JanyGee](2.png)<br/>
 ```
 $ gem install cocoapods
 ``` 
