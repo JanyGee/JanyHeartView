@@ -17,8 +17,6 @@
 		31F133E81F5E819B00D1BA42 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 31F133E61F5E819B00D1BA42 /* LICENSE */; };
 		31F133E91F5E819B00D1BA42 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 31F133E71F5E819B00D1BA42 /* README.md */; };
 		31F133EB1F5E825100D1BA42 /* JanyHeartView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 31F133EA1F5E825100D1BA42 /* JanyHeartView.podspec */; };
-		31F133EE1F5EA92A00D1BA42 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 31F133EC1F5EA92A00D1BA42 /* 1.png */; };
-		31F133EF1F5EA92A00D1BA42 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 31F133ED1F5EA92A00D1BA42 /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,8 +35,6 @@
 		31F133E61F5E819B00D1BA42 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../LICENSE; sourceTree = "<group>"; };
 		31F133E71F5E819B00D1BA42 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		31F133EA1F5E825100D1BA42 /* JanyHeartView.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = JanyHeartView.podspec; path = ../../JanyHeartView.podspec; sourceTree = "<group>"; };
-		31F133EC1F5EA92A00D1BA42 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		31F133ED1F5EA92A00D1BA42 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,8 +67,6 @@
 		31F133C91F5E7FA500D1BA42 /* Example */ = {
 			isa = PBXGroup;
 			children = (
-				31F133EC1F5EA92A00D1BA42 /* 1.png */,
-				31F133ED1F5EA92A00D1BA42 /* 2.png */,
 				31F133E51F5E816D00D1BA42 /* PodSpec */,
 				31F133E11F5E805600D1BA42 /* JanyHeartView */,
 				31F133CD1F5E7FA500D1BA42 /* AppDelegate.h */,
@@ -177,9 +171,7 @@
 			files = (
 				31F133DA1F5E7FA500D1BA42 /* LaunchScreen.storyboard in Resources */,
 				31F133D71F5E7FA500D1BA42 /* Assets.xcassets in Resources */,
-				31F133EF1F5EA92A00D1BA42 /* 2.png in Resources */,
 				31F133E81F5E819B00D1BA42 /* LICENSE in Resources */,
-				31F133EE1F5EA92A00D1BA42 /* 1.png in Resources */,
 				31F133EB1F5E825100D1BA42 /* JanyHeartView.podspec in Resources */,
 				31F133D51F5E7FA500D1BA42 /* Main.storyboard in Resources */,
 			);
